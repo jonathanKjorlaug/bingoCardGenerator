@@ -4,7 +4,7 @@ This is a bingo card generator that uses c++ in order to write a randomly ordere
 
 ### Dependencies
 
-One must have c++ set up locally, using the meson build system. I have personally used [this] (https://tdt4102.pages.stud.idi.ntnu.no/documentation/installing/linux/) guide.
+One must have c++ set up locally, using the meson build system. I have personally used [this](https://tdt4102.pages.stud.idi.ntnu.no/documentation/installing/linux/) guide.
 
 ### Basic usage
 
