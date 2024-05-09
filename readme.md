@@ -8,7 +8,7 @@ One must have c++ set up locally, using the meson build system. I have personall
 
 ### Basic usage
 
-Once one has c++ installed and set up, one must first clone the repo, and enter it. You should add your bingo card entries to `input.txt`, separated by newlines with no blank lines between them. After one has done this, run:
+Once one has c++ installed and set up, one must clone the repo and enter the directory. You should add your bingo card entries to `input.txt`, separated by newlines with no blank lines between them. After one has done this, run:
 
 ```
 meson compile -C builddir && ./builddir/program
